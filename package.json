@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-ultra-bridge-resolver-build-sxg",
+  "version": "1.0.0",
+  "description": "Event-driven processing engine",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "ultra-bridge-resolver-build-sxg"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-ultra-bridge-resolver-build-sxg.git"
+  }
+}
